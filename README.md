@@ -1,7 +1,9 @@
 # Algorithm for QR Decomposition
 
 NAME:RAMYA.P
+
 REGISTER NUMBER:212223240137
+
 DEPARTMENT:AIML
 
 ## Aim:
@@ -53,9 +55,8 @@ a = np.array(eval(input()))
 QR_Decomposition(a)
 ```
 ## Output
-```
-![Screenshot 2024-05-06 153609](https://github.com/23014107/QRdecomposition/assets/151625620/92ecf3f0-a874-4bdf-b754-efe8d9748cbb)
-![Screenshot 2024-05-06 153636](https://github.com/23014107/QRdecomposition/assets/151625620/00ad4958-f6ee-4bcc-a207-d2666d862589)
-```
+![Screenshot 2024-05-06 153609](https://github.com/23014107/QRdecomposition/assets/151625620/adbf9a94-b56e-40fd-b5b5-e84174fdd738)
+![Screenshot 2024-05-06 153636](https://github.com/23014107/QRdecomposition/assets/151625620/c83b265b-1d12-4c13-a083-33dfd830f78b)
+
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
