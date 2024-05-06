@@ -1,4 +1,4 @@
-# Algorithm for QR Decomposition
+# EX09-Algorithm for QR Decomposition
 
 NAME:RAMYA.P
 
